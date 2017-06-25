@@ -1,5 +1,5 @@
 # Taymiya PDF Manager
-Our Ibnab team created a new taymiya project 'PDF Manager' for Oro Tech, create pdf with template inside OroCRM ,download or send by email , from grid or inside entity view 
+Our Ibnab team created a new Taymiya project 'PDF Manager' for Oro Tech, create pdf with template inside OroCRM ,download or send by email , from grid or inside entity view 
 
 1. Create custom template for pdf
 2. Use Template inside custom grid
@@ -8,5 +8,5 @@ Our Ibnab team created a new taymiya project 'PDF Manager' for Oro Tech, create 
 
 # Now you can create PDF ..
 
-For more resource and courses About OroCRM visit Our website :
+For more resource and courses About Taymiya project visit Our website :
 http://www.taymiya.com
