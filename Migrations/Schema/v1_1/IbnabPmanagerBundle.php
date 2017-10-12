@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibnab\Bundle\PmanagerBundle\Migrations\Schema\v1_1;
+namespace Ibnab\Bundle\PmanagerBundle\Migrations\Schema\v1_0;
 
 use Doctrine\DBAL\Schema\Schema;
 
