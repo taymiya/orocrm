@@ -40,12 +40,12 @@ navigation:
         tree:
             application_menu:
                 children:
-                    marketing_tab:
-                        children:
-                            pmanager_catalog_pdf:
-                                children:
-                                    pmanager_catalog_product: ~
-                                    pmanager_catalog_publication: ~
+                    #marketing_tab:
+                        #children:
+                            #pmanager_catalog_pdf:
+                                #children:
+                                    #pmanager_catalog_product: ~
+                                    #pmanager_catalog_publication: ~
                     system_tab:
                         children:
                             pmanager_tab:
