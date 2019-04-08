@@ -21,7 +21,7 @@ use Oro\Bundle\UserBundle\Entity\User;
  *
  * @ORM\Entity
  * @ORM\Table(name="ibnab_pmanager_template",
- *      uniqueConstraints={@ORM\UniqueConstraint(name="UQ_NAME", columns={"name", "entityName"})},
+ *      uniqueConstraints={@ORM\UniqueConstraint(name="pmanager_UQ_NAME", columns={"name", "entityName"})},
  *      indexes={@ORM\Index(name="pmanager_pdftemplate_name_idx", columns={"name"}),
  *          @ORM\Index(name="pmanager_pdftemplate_is_system_idx", columns={"isSystem"}),
  *          @ORM\Index(name="pmanager_pdftemplate_entity_name_idx", columns={"entityName"})})

@@ -59,7 +59,7 @@ class IbnabPmanagerBundle implements Migration
         $table->addColumn('type', 'string', ['length' => 20]);
 
         $table->setPrimaryKey(['id']);
-        $table->addUniqueIndex(['name', 'entityName'], 'UQ_NAME');
+        $table->addUniqueIndex(['name', 'entityName'], 'pmanager_UQ_NAME');
         $table->addIndex(['name'], 'pmanager_pdftemplate_name_idx', []);
         $table->addIndex(['isSystem'], 'pmanager_pdftemplate_is_system_idx', []);
         $table->addIndex(['entityName'], 'pmanager_pdftemplate_entity_name_idx', []);
